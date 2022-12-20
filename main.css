@@ -47,17 +47,17 @@ body {
 		jump 50ms infinite;
 }
 
-.text_box {
+.badge_box {
 	box-shadow: 0 0 2px red, inset 0 0 2px red;
 	border: 0.2vw solid #ff6666;
 	position: absolute;
-	padding: 2px 10px;
+	padding: 3px 10px;
 	top: 10px;
 	right: 10px;
 }
 
-.text_box * {
-	animation: 5s distort 6s infinite alternate, blur 30ms infinite,
+.badge_box * {
+	animation: alternate, infinite,
 		flick 50ms infinite, jump 50ms infinite;
 }
 
