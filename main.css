@@ -35,7 +35,6 @@ body {
 	bottom: 10px;
 	right: 10px;
 	left: 10px;
-	width: 98%;
 }
 
 .footer * {
@@ -51,9 +50,8 @@ body {
 	box-shadow: 0 0 2px red, inset 0 0 2px red;
 	border: 0.2vw solid #ff6666;
 	position: absolute;
-	padding: 1px 1px;
-	top: 10px;
 	right: 10px;
+	top: 10px;
 }
 
 .badge_box * {
